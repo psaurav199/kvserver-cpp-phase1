@@ -7,7 +7,6 @@ Minimal **Phase-1** HTTP key–value server in **C++17** with:
 - REST-ish endpoints: `POST /kv` (JSON), `GET /kv/{key}`, `DELETE /kv/{key}`
 - Basic logging & graceful shutdown (Ctrl+C)
 
-> This is intentionally minimal for an easy Phase-1 demo. It is **not** a production HTTP implementation.
 
 ---
 
